@@ -35,6 +35,10 @@ This project creates a \*\*clean, single-video viewer\*\* where you paste a vide
 Here’s what Distraction-Free YouTube looks like:
 ![Screenshot](DFyoutube.png)
 
+Here is what inside of coding page looks like - 
+![Screenshot](DFyoutube1.png)
+
+
 
 
 \## 🛠️ Tech Stack
